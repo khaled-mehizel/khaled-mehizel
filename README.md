@@ -7,7 +7,7 @@ I'm Khaled, a data analyst!
 - Computer geek, car geek, video game enjoyer, bookworm, powerlifter
 - Like punk, classic rock, jazz, hip hop, trance, eurobeat, Jungle DnB
 
-[Website](khaled-mehizel.netlify.app)
+[Website](khaled-mehizel.netlify.app) <br>
 [LinkedIn](linkedin.com/in/khaled-mehizel)
   
 <!--
