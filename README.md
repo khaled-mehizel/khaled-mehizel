@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+I'm Khaled, a data analyst!
+
+- Excel, SQL, Power BI, Python, Tableau
+- Looking for work in Cracow, Poland
+- Computer geek, car geek, video game enjoyer, bookworm, powerlifter
+- Like punk, classic rock, jazz, hip hop, trance, eurobeat, Jungle DnB
+
+[Website](khaled-mehizel.netlify.app)
+[LinkedIn](linkedin.com/in/khaled-mehizel)
+  
 <!--
 **khaled-mehizel/khaled-mehizel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
