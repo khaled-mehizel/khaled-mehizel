@@ -1,7 +1,9 @@
 ### Hi there 👋
 
 I'm Khaled, a data analyst!
+I started my journey with data as many people do, with Excel. During my learning journey with Excel, I heard of this reporting tool called Power BI! And that's how I started, yes I learned Power BI before SQL. The more projects, and the more I learned, the more certain I am that data analytics is something I would love very much to do in my life.
 
+### Here's me in a few bullet points
 - Excel, SQL, Power BI, Python, Tableau
 - Looking for work in Cracow, Poland
 - Computer geek, car geek, video game enjoyer, bookworm, powerlifter
